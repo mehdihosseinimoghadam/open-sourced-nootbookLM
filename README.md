@@ -13,7 +13,7 @@ The Podcast Creator script is designed to automate the process of creating a pod
 
 ### Mistral 7B
 
-[![Watch the video](https://img.youtube.com/vi/K_7kt5_x-Ow?start/0.jpg)](https://www.youtube.com/watch?v=K_7kt5_x-Ow?start&start=26)
+[![Watch the video](https://img.youtube.com/vi/K_7kt5_x-Ow/0.jpg)](https://www.youtube.com/watch?v=K_7kt5_x-Ow?start&start=26)
 
 
 
