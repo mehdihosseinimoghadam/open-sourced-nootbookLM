@@ -289,5 +289,5 @@ def create_podcast_from_pdf(
 
 # Example usage
 if __name__ == "__main__":
-    pdf_path = "/Users/mehdihosseinimoghadam/Desktop/temp/open-sourced-nootbookLM/pdf/attention.pdf"
+    pdf_path = "./pdf/attention.pdf"
     create_podcast_from_pdf(pdf_path)
