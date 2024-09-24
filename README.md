@@ -20,13 +20,13 @@ The Podcast Creator script is designed to automate the process of creating a pod
 
 ### LLama2
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sDwxJx8WX3w?start=26" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/sDwxJx8WX3w/0.jpg)](https://www.youtube.com/watch?v=sDwxJx8WX3w&start=26)
 
 
 ### Attention is all you need
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M61t5CXCKtI?start=26" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/M61t5CXCKtI/0.jpg)](https://www.youtube.com/watch?v=M61t5CXCKtI&start=26)
+
 
 
 ## Features
