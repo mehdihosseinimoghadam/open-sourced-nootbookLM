@@ -16,6 +16,13 @@ The Podcast Creator script is designed to automate the process of creating a pod
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K_7kt5_x-Ow?start=26" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/MUQfKFzIOeU" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
 ### LLama2
 
 
