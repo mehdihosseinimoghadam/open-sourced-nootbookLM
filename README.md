@@ -1,6 +1,6 @@
 # Open Sourced NoteBookLM
 
-![Podcast Creator](./image.png)
+![Podcast Creator](https://github.com/mehdihosseinimoghadam/open-sourced-nootbookLM/blob/main/img.png)
 
 
 ## Overview
@@ -14,8 +14,7 @@ The Podcast Creator script is designed to automate the process of creating a pod
 ### Mistral 7B
 
 
-![Image Description](https://github.com/mehdihosseinimoghadam/open-sourced-nootbookLM/blob/main/img.png?raw=true)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K_7kt5_x-Ow?start=26" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### LLama2
 
