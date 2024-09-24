@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "podcast_creator"
+version = "0.1.0"
+description = "A tool to create podcasts from PDF content"
+authors = ["Mehdi HM <m.h.moghadam1996@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+langchain = "^0.3.0"
+openai = "^1.47.1"
+pydantic = "^2.7.4"
+pydub = "^0.25.1"
+fitz = "^0.0.1.dev2"
+tqdm = "^4.64.1"
+pillow = "^9.2.0"
+python-dotenv = "^0.21.0"
+langchain-community = "^0.3.0"
+frontend = "^0.0.3"
+pymupdf = "^1.24.10"
+[tool.poetry.scripts]
+podcast_creator = "podcast_creator.podcast_creator:create_podcast_from_pdf"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
