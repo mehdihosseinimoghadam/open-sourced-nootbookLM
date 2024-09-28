@@ -5,7 +5,7 @@
 
 ## Overview
 
-The Podcast Creator script is designed to automate the process of creating a podcast from a PDF document. It extracts text from the PDF, generates a detailed podcast script using OpenAI's GPT-4 model, converts the script to audio, and then combines the audio with images of the PDF pages to create a video. The final output includes both an audio file and a video file with synchronized audio.
+The Podcast Creator script (open sourced notebookLM) is designed to automate the process of creating a podcast from a PDF document. It extracts text from the PDF, generates a detailed podcast script using OpenAI's GPT-4 model, converts the script to audio, and then combines the audio with images of the PDF pages to create a video. The final output includes both an audio file and a video file with synchronized audio.
 
 
 
@@ -29,7 +29,7 @@ The Podcast Creator script is designed to automate the process of creating a pod
 
 
 
-## Features
+## open sourced NoteBookLM Features
 
 1. **PDF Text Extraction**: Extracts text content from a PDF document.
 2. **Script Generation**: Uses OpenAI's GPT-4 model to generate a detailed podcast script based on the extracted text.
@@ -47,7 +47,7 @@ The Podcast Creator script is designed to automate the process of creating a pod
 5. **Create Video**: Images of the PDF pages are created and combined with the audio to produce a video.
 6. **Save Outputs**: The final audio and video files are saved to the specified output paths.
 
-## Usage
+## How to Use open sourced NoteBookLM
 
 To run the project:
 
@@ -117,7 +117,7 @@ Ensure all dependencies are installed before running the script.
 
 ## Conclusion
 
-The Podcast Creator script provides a comprehensive solution for converting PDF documents into engaging podcast episodes, complete with audio and video outputs. By leveraging advanced AI models and audio processing techniques, it automates the entire workflow, making it easy to create high-quality podcast content from textual documents.
+The Podcast Creator (open sourced NoteBookLM) script provides a comprehensive solution for converting PDF documents into engaging podcast episodes, complete with audio and video outputs. By leveraging advanced AI models and audio processing techniques, it automates the entire workflow, making it easy to create high-quality podcast content from textual documents.
 
 
 ## License
